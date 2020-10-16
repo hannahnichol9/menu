@@ -139,6 +139,8 @@ a:hover {
     display: inline-flex;
     align-items: center;
     justify-content: center;
+    text-decoration: none;
+    color: #324e6e;
     margin: 0;
 }
 
