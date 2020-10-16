@@ -180,6 +180,7 @@ a:hover {
     justify-content: center;
     flex-wrap: wrap;
     font-size: 20px;
+    line-height: 1.5em;
 }
 
 #formSubmit {
