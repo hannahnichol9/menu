@@ -45,15 +45,6 @@ p {
     line-height: 1.7em;
 }
 
-ul {
-    padding: 0;
-}
-
-li {
-    font-size: 20px;
-    padding-bottom: 1vh;
-}
-
 textarea, input {
     font-family: inherit;
     font-size: inherit;
@@ -188,6 +179,7 @@ a:hover {
     align-items: flex-start;
     justify-content: center;
     flex-wrap: wrap;
+    font-size: 20px;
 }
 
 #formSubmit {
